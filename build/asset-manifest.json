@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-material-calculator/static/css/main.3f83b9c1.chunk.css",
-  "main.js": "/react-material-calculator/static/js/main.8a2d8295.chunk.js",
-  "main.js.map": "/react-material-calculator/static/js/main.8a2d8295.chunk.js.map",
-  "static/js/1.ac0918a5.chunk.js": "/react-material-calculator/static/js/1.ac0918a5.chunk.js",
-  "static/js/1.ac0918a5.chunk.js.map": "/react-material-calculator/static/js/1.ac0918a5.chunk.js.map",
-  "runtime~main.js": "/react-material-calculator/static/js/runtime~main.6a54e7fb.js",
-  "runtime~main.js.map": "/react-material-calculator/static/js/runtime~main.6a54e7fb.js.map",
-  "static/css/main.3f83b9c1.chunk.css.map": "/react-material-calculator/static/css/main.3f83b9c1.chunk.css.map",
-  "index.html": "/react-material-calculator/index.html",
-  "precache-manifest.09fce76d553f4b632a671e78ebe7c817.js": "/react-material-calculator/precache-manifest.09fce76d553f4b632a671e78ebe7c817.js",
-  "service-worker.js": "/react-material-calculator/service-worker.js"
+  "main.css": "/react-material-calculator/build/static/css/main.3f83b9c1.chunk.css",
+  "main.js": "/react-material-calculator/build/static/js/main.9f6c531e.chunk.js",
+  "main.js.map": "/react-material-calculator/build/static/js/main.9f6c531e.chunk.js.map",
+  "static/js/1.ac0918a5.chunk.js": "/react-material-calculator/build/static/js/1.ac0918a5.chunk.js",
+  "static/js/1.ac0918a5.chunk.js.map": "/react-material-calculator/build/static/js/1.ac0918a5.chunk.js.map",
+  "runtime~main.js": "/react-material-calculator/build/static/js/runtime~main.8aa0d0ac.js",
+  "runtime~main.js.map": "/react-material-calculator/build/static/js/runtime~main.8aa0d0ac.js.map",
+  "static/css/main.3f83b9c1.chunk.css.map": "/react-material-calculator/build/static/css/main.3f83b9c1.chunk.css.map",
+  "index.html": "/react-material-calculator/build/index.html",
+  "precache-manifest.5a6211b98a3b55637156f3edfc555edb.js": "/react-material-calculator/build/precache-manifest.5a6211b98a3b55637156f3edfc555edb.js",
+  "service-worker.js": "/react-material-calculator/build/service-worker.js"
 }

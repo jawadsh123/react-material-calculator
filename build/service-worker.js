@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/react-material-calculator/precache-manifest.09fce76d553f4b632a671e78ebe7c817.js"
+  "/react-material-calculator/build/precache-manifest.5a6211b98a3b55637156f3edfc555edb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-material-calculator/index.html", {
+workbox.routing.registerNavigationRoute("/react-material-calculator/build/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
