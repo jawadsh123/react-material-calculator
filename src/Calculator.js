@@ -58,8 +58,7 @@ class Calculator extends PureComponent{
                             <Button className='button' value='9'>9</Button>
                         </Grid>
                         <Grid item xs={3}>
-                            <Button className='button operation-button backspace' onTouchStart={this.handleLongButtonPress} 
-                                onTouchEnd={this.handleLongButtonRelease} onMouseDown={this.handleLongButtonPress} 
+                            <Button className='button operation-button backspace' onMouseDown={this.handleLongButtonPress} 
                                 onMouseUp={this.handleLongButtonRelease} value='clear'>
                                 <Icon>backspace</Icon>
                             </Button>
